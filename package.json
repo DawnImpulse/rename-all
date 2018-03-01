@@ -1,0 +1,24 @@
+{
+  "name": "rename-all",
+  "version": "1.0.0",
+  "description": "A tool used to rename bunch of files in a go. Easy to use command line interface as well as via package require.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawnImpulse/rename-all.git"
+  },
+  "keywords": [
+    "rename",
+    "rename-files",
+    "renamer"
+  ],
+  "author": "DawnImpulse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawnImpulse/rename-all/issues"
+  },
+  "homepage": "https://github.com/DawnImpulse/rename-all#readme"
+}
